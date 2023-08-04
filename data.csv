@@ -1,0 +1,25 @@
+srno,name,email,scheme,status,date,Gender,Cast,District,Age
+1,Ridham,ridhampatel2002@gmail.com,"Meal Bill Assistance",Applied,2023-02-11,M,General,Ahmedabad,21
+2,Ridham,ridhampatel2002@gmail.com,MYSY,Reverted,2023-02-11,M,General,Ahmedabad,21
+3,Miral,chauhanmiral02@gmail.com,"Niradhar Vrudh Sahay",Applied,2023-02-11,F,OBC,Ahmedabad,20
+4,Vandan,vandanvala14@gmail.com,"Meal Bill Assistance",Accepted,2023-02-11,M,SC,Surat,22
+5,Yaxita,yaxita2003@gmail.com,MYSY,Applied,2023-02-11,F,General,Vadodara,21
+6,Govind,govind@duck.com,"Mukhyamantri Amrutum Yojana",Applied,2023-02-11,M,ST,Surat,22
+7,Niraj,darjiniraj9422@gmail.com,MKSY,Apllied,2023-02-11,M,General,Ahmedabad,19
+8,Jenil,jenilkheni19@gmail.com,MYSY,Accepted,2023-02-11,M,OBC,Surat,20
+9,Gautam,rathodgautam7717@gmail.com,"Digital Gujarat",Applied,2023-02-11,M,General,Rajkot,21
+10,Vinay,vinaysharma352044@gmail.com,"Mukhyamantri Amrutum Yojana",Accepted,2023-02-11,M,ST,Ahmedabad,22
+11,Dhruvil,bhojanidhruvil1234@gmail.com,"Meal Bill Assistance",Applied,2023-02-11,M,OBC,Surat,19
+12,Shreyash,shrey.detroja14@gmail.com,"Niradhar Vrudh Sahay",Applied,2023-02-11,M,General,Rajkot,22
+13,Akanksha,ampriyadarshee@gmail.com,MKSY,Accepted,2023-02-11,F,General,Ahmedabad,20
+14,Dhrumil,ponkiyadhrumil20@gmail.com,"Digital Gujarat",Applied,2023-02-11,M,OBC,Surat,19
+15,Miral,chauhanmiral02@gmail.com,"Digital Gujarat",Applied,2023-02-11,F,OBC,Ahmedabad,21
+16,Vandan,vandanvala14@gmail.com,"Niradhar Vrudh Sahay",Applied,2023-02-11,M,ST,Vadodara,22
+17,Yaxita,yaxita2003@gmail.com,"Mukhyamantri Amrutum Yojana",Accepted,2023-02-11,F,SC,Vadodara,21
+18,Govind,govind@duck.com,"Niradhar Vrudh Sahay",Accepted,2023-02-11,M,SC,Rajkot,20
+19,Niraj,darjiniraj9422@gmail.com,MKSY,Applied,2023-02-11,M,OBC,Surat,21
+20,Jenil,jenilkheni19@gmail.com,"Coaching Assistance",Applied,2023-02-11,M,ST,Rajkot,19
+21,Gautam,rathodgautam7717@gmail.com,MKSY,Accepted,2023-02-11,M,SC,Ahmedabad,20
+22,Ridham,ridhampatel2002@gmail.com,MKSY,Applied,2023-02-11,M,General,Ahmedabad,21
+23,Ridham,ridhampatel2002@gmail.com,MKSY,Applied,2023-02-11,M,,abd,21
+24,Ridham,ridhampatel2002@gmail.com,"Mukhyamantri Amrutum Yojna",Applied,2023-02-11,M,General,Ahmedabad,21

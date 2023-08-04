@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ********************Sign_Up page******************** */
+
+.signup_page {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+
+.signup_page .row .card {
+    border: none;
+    background: none;
+}
+
+.signup_page .row .sign_up_card {
+    /* padding: 3rem; */
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(2.5px);
+    -webkit-backdrop-filter: blur(7.5px);
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    margin: 3rem auto;
+    padding: 3rem 4rem;
+}
+
+.signup_page .row .sign_up_card p {
+    text-align: end;
+    color: black;
+    font-size: smaller;
+    font-weight: 600;
+}
+
+.signup_page .row .sign_up_card p a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.signup_page .row .sign_up_card h3 {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.signup_page .row .sign_up_card input {
+    padding: 10px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+}
+
+/* .signup_page .row .sign_up_card label {
+    color: whitesmoke;
+    padding: 4px;
+    font-size: larger;
+    font-weight: 600;
+} */
+
+.signup_page .row .sign_up_card .email_div {
+    display: flex;
+
+}
+
+.signup_page .row .sign_up_card .btn {
+    background-color: #e7e7e7;
+    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    font-size: medium;
+    font-weight: 600;
+}
+
+/* ********************Sign_In page******************** */
+.signin_page {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+
+.signin_page .row .card {
+    border: none;
+    background: none;
+}
+
+.signin_page .row .sign_in_card {
+    /* padding: 3rem; */
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(2.5px);
+    -webkit-backdrop-filter: blur(7.5px);
+    border-radius: 15px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    margin: 3rem auto;
+    padding: 1rem 4rem;
+}
+
+.signin_page .row .sign_in_card p {
+    text-align: center;
+    color: black;
+    font-size: smaller;
+    font-weight: 600;
+}
+
+.signin_page .row .sign_in_card a {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+.signin_page .row .sign_in_card h3 {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+.signin_page .row .sign_in_card input {
+    padding: 10px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+}
+
+/* 
+.signin_page .row .sign_in_card label {
+    color: whitesmoke;
+    padding: 4px;
+    font-size: larger;
+    font-weight: 600;
+} */
+
+.signin_page .row .sign_in_card .email_div, .pass_div {
+    display: flex;
+
+}
+
+.signin_page .row .sign_in_card .btn {
+    background-color: #e7e7e7;
+    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    font-size: medium;
+    font-weight: 600;
+    margin-top: 2rem;
+}   
